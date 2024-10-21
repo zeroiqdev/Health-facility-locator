@@ -1,11 +1,11 @@
-**Getting Started**
+# Getting Started
 
 Before you begin, please ensure you are familiar with the following:
 
 Codebase Overview: We expect contributors to have reviewed the relevant parts of the codebase. Documentation is available in the README.md file.
 Project Scope: Make sure you fully understand the requirements of the feature you are developing. Feature details, user stories, and requirements are provided in the issue tracker or project board.
 
-**Prerequisites**
+# Prerequisites
 
 To contribute, ensure you have the following installed:
 
@@ -14,7 +14,7 @@ To contribute, ensure you have the following installed:
 Git
 [Additional tools, libraries, or SDKs required]
 
-**Workflow**
+# Workflow
 
 We follow a structured development workflow to maintain the quality and stability of our production environment.
 
@@ -28,7 +28,7 @@ Clone your fork locally
    
 All feature work must be done in a separate branch. Name the branch descriptively, following this pattern: feature/[short-description].
 
-3. **Coding Standards**
+# Coding Standards
    
 Follow the coding standards outlined below:
 
@@ -69,7 +69,7 @@ Security: No vulnerabilities or security risks are introduced.
 
 After review, you may be asked to make revisions. Once approved, your changes will be merged into the development branch and later deployed to production after thorough testing.
 
-**Branching Strategy**
+# Branching Strategy
 
 We use a branching strategy to manage development and production releases:
 
@@ -91,6 +91,6 @@ Integration Testing: Ensure your feature integrates well with the rest of the ap
 
 Bug Reporting: If you encounter bugs while working, please report them in the issue tracker with steps to reproduce and any relevant logs or screenshots.
 
-**Deployment Process**
+# Deployment Process
 
 We manage deployments internally. After merging your code into development and testing it thoroughly, the internal team will handle deployment to production.
